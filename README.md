@@ -1,10 +1,15 @@
 <h1 align="center">
   <img src="https://c.tenor.com/r77Sc4J25JMAAAAC/tenor.gif" alt="MasterHead" width="1000" height="400">
 </h1>
-<h1 align="center">Hello, it's Ahmed Reda</h1>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=600&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+it's+Ahmed+Reda"
+    alt="Hello, it's Ahmed Reda"
+  />
+</h1>
 
 <h3 align="center">
-  Full-Stack Developer 
+  Full-Stack Developer
 </h3>
 
 <p align="center">
